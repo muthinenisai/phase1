@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Collection_Mapping_Hibernate5/src/main/java"/>
+	<classpathentry kind="src" path="Component_Mapping7/src/main/java"/>
+	<classpathentry kind="src" path="Configure_hibernate/src/main/java"/>
+	<classpathentry kind="src" path="Create_Select_and_Drop_Database/src/main/java"/>
+	<classpathentry kind="src" path="Difference between GET and POST/src/main/java"/>
+	<classpathentry kind="src" path="GenericServlet/src/main/java"/>
+	<classpathentry kind="src" path="Hibernate_Configuration_Using_Annotations_Eclipse/src/main/java"/>
+	<classpathentry kind="src" path="Hibernate_Configuration_Using_XML_Eclipse2/src/main/java"/>
+	<classpathentry kind="src" path="Hibernate_Logging_Log4j"/>
+	<classpathentry excluding="src/main/java/" kind="src" path="Hibernate6"/>
+	<classpathentry kind="src" path="Hibernate6/src/main/java"/>
+	<classpathentry kind="src" path="Insertion_Updation_and_Deletion_of_Databas_Records/src/main/java"/>
+	<classpathentry kind="src" path="Integration_Hibernate_Spring/src/main/java"/>
+	<classpathentry kind="src" path="JDBC_Connections_Statements_and_ResultSets/src/main/java"/>
+	<classpathentry kind="src" path="JSPActionTags/src/main/java"/>
+	<classpathentry kind="src" path="SetUP_JDBC_connection/src/main/java"/>
+	<classpathentry kind="src" path="Stored_Procedures_With_Exceptions1/src/main/java"/>
+	<classpathentry kind="output" path="Collection_Mapping_Hibernate5/build/classes"/>
+</classpath>
