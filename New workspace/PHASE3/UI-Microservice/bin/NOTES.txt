@@ -1,0 +1,20 @@
+Add the JSP support dependency in pom.xml - DONE
+
+Update application.properties ( jsp support, db props, server port) DONE
+
+create the webapp folder/subfolders structure OR copy entire webapp folder from prev project
+  (after copying delete files that you dont want)
+  - DONE
+
+
+additonal stuff
+REMOVE DB related stuff in this UI micro service
+	in application.properties 
+	pom.xml (jpa and mysql dep)
+
+Sert server.port=81 in application.properties
+
+Remove Entity and Table annotations from Eproduct class
+Remove Repo class/interafce
+Remove other controllers. Create UIController
+

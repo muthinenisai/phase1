@@ -1,0 +1,10 @@
+Add the JSP support dependency in pom.xml
+
+Update application.properties ( jsp support, server port)
+
+create the webapp folder/subfolders structure OR copy entire webapp folder from prev project
+  (after copying delete files that you dont want)
+
+
+additonal stuff
+
